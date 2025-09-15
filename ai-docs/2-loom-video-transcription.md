@@ -1,0 +1,5 @@
+0:01 So here we have the Compton Planner app to plan and schedule window cleaning customers Here we have the lead system where you put in name, email, phone number, address, where people knows us from and the price and also how often to get back to the customer and the starting date and the starting times
+0:23 and estimated time We have leads and we have customers and under this uh, customization you can see orders and whatever.
+0:34 You also have a calendar where you can see simply what to do in this month and navigator this is just a day program.
+0:45 So here you from here you can just start the task and say now I'm done and finish it and move on.
+0:53 So that's the simulation of our app And again, this is where you see all your customer, and this is where you should be able to see some pictures.

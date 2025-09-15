@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{87DD09CC-B66C-4A1A-A1BA-63EFB1CA55D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malte.Clean.API", "src\Malte.Clean.API\Malte.Clean.API.csproj", "{ED36EB50-76E8-4EDC-A1BF-8C130197C00B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malte.Clean.Domain", "src\Malte.Clean.Domain\Malte.Clean.Domain.csproj", "{D39C735A-793A-425F-87AE-109B6ADD4705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malte.Clean.Data", "src\Malte.Clean.Data\Malte.Clean.Data.csproj", "{86DA598D-C893-49C3-B0AF-632474DBACD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ED36EB50-76E8-4EDC-A1BF-8C130197C00B} = {87DD09CC-B66C-4A1A-A1BA-63EFB1CA55D4}
+		{D39C735A-793A-425F-87AE-109B6ADD4705} = {87DD09CC-B66C-4A1A-A1BA-63EFB1CA55D4}
+		{86DA598D-C893-49C3-B0AF-632474DBACD1} = {87DD09CC-B66C-4A1A-A1BA-63EFB1CA55D4}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED36EB50-76E8-4EDC-A1BF-8C130197C00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED36EB50-76E8-4EDC-A1BF-8C130197C00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED36EB50-76E8-4EDC-A1BF-8C130197C00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED36EB50-76E8-4EDC-A1BF-8C130197C00B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D39C735A-793A-425F-87AE-109B6ADD4705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39C735A-793A-425F-87AE-109B6ADD4705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39C735A-793A-425F-87AE-109B6ADD4705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39C735A-793A-425F-87AE-109B6ADD4705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86DA598D-C893-49C3-B0AF-632474DBACD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DA598D-C893-49C3-B0AF-632474DBACD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DA598D-C893-49C3-B0AF-632474DBACD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DA598D-C893-49C3-B0AF-632474DBACD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
