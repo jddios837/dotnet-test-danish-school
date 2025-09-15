@@ -1,0 +1,53 @@
+{
+  "customers": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440001",
+      "name": "Juan Pérez",
+      "email": "juan.perez@email.com",
+      "phoneNumber": "+1234567890",
+      "address": "Calle Principal 123, Ciudad, País",
+      "images": [
+        {
+          "id": "660e8400-e29b-41d4-a716-446655440001",
+          "customerId": "550e8400-e29b-41d4-a716-446655440001",
+          "base64Data": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAABAAEDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAv/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCdABmX/9k=",
+          "fileName": "perfil-juan.jpg",
+          "contentType": "image/jpeg",
+          "sizeInBytes": 1024,
+          "uploadedAt": "2025-01-15T10:00:00Z"
+        }
+      ],
+      "createdAt": "2025-01-15T09:00:00Z",
+      "updatedAt": "2025-01-15T10:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440002",
+      "name": "María García",
+      "email": "maria.garcia@email.com",
+      "phoneNumber": "+0987654321",
+      "address": "Avenida Central 456, Ciudad, País",
+      "images": [
+        {
+          "id": "660e8400-e29b-41d4-a716-446655440002",
+          "customerId": "550e8400-e29b-41d4-a716-446655440002",
+          "base64Data": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+          "fileName": "avatar-maria.png",
+          "contentType": "image/png",
+          "sizeInBytes": 2048,
+          "uploadedAt": "2025-01-15T14:30:00Z"
+        },
+        {
+          "id": "660e8400-e29b-41d4-a716-446655440003",
+          "customerId": "550e8400-e29b-41d4-a716-446655440002",
+          "base64Data": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAABAAEDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAv/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCdABmX/9k=",
+          "fileName": "documento-maria.jpg",
+          "contentType": "image/jpeg",
+          "sizeInBytes": 1536,
+          "uploadedAt": "2025-01-15T15:45:00Z"
+        }
+      ],
+      "createdAt": "2025-01-15T14:00:00Z",
+      "updatedAt": "2025-01-15T15:45:00Z"
+    }
+  ]
+}

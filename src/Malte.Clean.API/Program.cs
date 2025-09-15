@@ -32,6 +32,7 @@ builder.Services.AddScoped<IUploadImagesUseCase, UploadImagesUseCase>();
 builder.Services.AddScoped<IGetCustomerImagesUseCase, GetCustomerImagesUseCase>();
 builder.Services.AddScoped<IDeleteImageUseCase, DeleteImageUseCase>();
 builder.Services.AddScoped<IGetCustomerUseCase, GetCustomerUseCase>();
+builder.Services.AddScoped<ICreateCustomerUseCase, CreateCustomerUseCase>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
